@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaMais.Pedido.API", "src\PizzaMais.Pedido.API\PizzaMais.Pedido.API.csproj", "{94311E2E-82B2-4021-A15A-08F09CD0704F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaMais.Pedido.Communs", "src\PizzaMais.Pedido.Communs\PizzaMais.Pedido.Communs.csproj", "{7A5A7D5C-B931-40BD-8098-0D8B1ADDCA8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaMais.Produto.Core", "src\PizzaMais.Produto.Core\PizzaMais.Produto.Core.csproj", "{C5421372-F513-4677-A3DE-D4110DD69DE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94311E2E-82B2-4021-A15A-08F09CD0704F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94311E2E-82B2-4021-A15A-08F09CD0704F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94311E2E-82B2-4021-A15A-08F09CD0704F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94311E2E-82B2-4021-A15A-08F09CD0704F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5A7D5C-B931-40BD-8098-0D8B1ADDCA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5A7D5C-B931-40BD-8098-0D8B1ADDCA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5A7D5C-B931-40BD-8098-0D8B1ADDCA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5A7D5C-B931-40BD-8098-0D8B1ADDCA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5421372-F513-4677-A3DE-D4110DD69DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5421372-F513-4677-A3DE-D4110DD69DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5421372-F513-4677-A3DE-D4110DD69DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5421372-F513-4677-A3DE-D4110DD69DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED500793-121F-4A6F-95D5-61C60215E65E}
+	EndGlobalSection
+EndGlobal

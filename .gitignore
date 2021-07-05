@@ -1,0 +1,7 @@
+src/PizzaMais.Produto.Core/obj/
+.vs/
+src/PizzaMais.Pedido.API/bin/
+src/PizzaMais.Pedido.API/obj/
+src/PizzaMais.Pedido.Communs/bin/
+src/PizzaMais.Pedido.Communs/obj/
+src/PizzaMais.Produto.Core/bin/
