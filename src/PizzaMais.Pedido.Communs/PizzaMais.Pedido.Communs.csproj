@@ -5,11 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Enum\" />
     <Folder Include="Filtros\" />
     <Folder Include="Interfaces\Service\" />
     <Folder Include="Interfaces\Repository\" />
-    <Folder Include="Model\" />
     <Folder Include="DTOs\" />
   </ItemGroup>
 
